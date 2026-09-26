@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+/planner-api/.venv
+
+# next.js
+/.next/
+/out/
+
+# env files — NEVER commit these
+.env.local
+.env.*.local
+.env
+/planner-api/.env
+
+
+# next.js
+/.next/
+/out/
+
+# env files — NEVER commit these
+.env.local
+.env.*.local
+.env
+
+# debug
+npm-debug.log*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

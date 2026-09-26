@@ -1,0 +1,13 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/planner-api"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/planner-api"
+  ],
+  "pyrefly.extraSearchPaths": [
+    "${workspaceFolder}/planner-api"
+  ],
+  "python.defaultInterpreterPath": "${workspaceFolder}/planner-api/.venv/Scripts/python.exe"
+}
